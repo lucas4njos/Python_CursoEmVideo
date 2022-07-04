@@ -1,6 +1,0 @@
-#Exercício Python 8: Escreva um programa que leia um valor em metros e
-# o exiba convertido em centímetros e milímetros.
-
-valor=float(input("Digite o valor em metros: "))
-
-print(f'Valor em cm: {valor*100}\nValor em mm: {valor*1000}')
